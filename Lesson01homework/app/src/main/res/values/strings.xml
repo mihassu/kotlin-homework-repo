@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson01homework</string>
+    <string name="greetingText">Hello World</string>
+    <string name="greeting">Приветствовать</string>
+
+
+</resources>
